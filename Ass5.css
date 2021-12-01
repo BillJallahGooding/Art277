@@ -83,6 +83,11 @@ padding: 35px;
 font-size: 1.2em;
 color: #fff;
 }
+.conten > p >img {
+  width: 15%;
+  height: 170px;
+  float: left;
+}
 
 /* Page Title */
 
@@ -96,4 +101,6 @@ color: #fff;
 h2{
   text-align: center;
 }
+
+
 
